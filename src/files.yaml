@@ -1,0 +1,3 @@
+files:
+    upload: /home/<username>/upload/
+    api_result: /home/<username>/api_result/
